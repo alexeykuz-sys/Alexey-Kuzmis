@@ -1,17 +1,20 @@
 ### Hi there 👋
 ### I am software frontend developer who likes building websites and make them interactive
 
-👨🏼‍💻 building [Business Card](https://alexeykuz-sys.github.io/businessCard/)  
+👨🏼‍💻 last project [Recipe Website](hhttps://github.com/alexeykuz-sys/myRecipe-MS3)  
 <br>
-🧠 learning JavaScript, REACT, Django 
+🧠 learning  JavaScript, REACT, Django 
 <br>
-💜 loving REACT 
+💜 loving:  coding **|** photography **|** trail running **|** tennis
+<br>
+:1st_place_medal: [Hackathon](https://github.com/alexeykuz-sys/hackathon-doubleShamrocks)
 
 
 
 📷 [Instagram](https://www.instagram.com/icmodels.uk/)
 <br>
 👔 [LinkedIn](https://www.linkedin.com/in/alexey-kuzmis-5464762/)
+<br>
 
 ![](https://github.com/alexeykuz-sys/Alexey-Kuzmis/blob/main/business%20card.PNG)
 
