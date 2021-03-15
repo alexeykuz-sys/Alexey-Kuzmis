@@ -22,6 +22,6 @@
 - 👯 I’m looking to collaborate on Front End Projects
 - 🤔 I’m looking for help with finding my first job as front end developer
 - 💬 Ask me about anything
-- 📫 [How to reach me:]( https://alexeykuz-sys.github.io/businessCard/)
+- 📫 [Click here to reach me!]( https://alexeykuz-sys.github.io/businessCard/)
 - 😄 Pronouns: ...he/him
 
