@@ -1,5 +1,5 @@
 ### Hi there 👋
-### software frontend developer who likes building websites and make them interactive
+### I am software frontend developer who likes building websites and make them interactive
 
 👨🏼‍💻 building [Business Card](https://alexeykuz-sys.github.io/businessCard/)  
 🧠 learning JavaScript, REACT  Django
