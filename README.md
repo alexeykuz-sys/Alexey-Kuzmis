@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### I am software frontend developer who likes building websites and make them interactive
 
+![](https://github.com/alexeykuz-sys/Alexey-Kuzmis/blob/main/business%20card.PNG)
+
+
+
 👨🏼‍💻 Last project - [Recipe Website](https://my-recipe-ms3.herokuapp.com/)
 <br>
 👨🏼‍💻 Last frontend challenge - [Bookmark Landing Page](https://bookmark-landing-page-alexeykuz-sys.vercel.app/)
@@ -18,7 +22,6 @@
 👔 [LinkedIn](https://www.linkedin.com/in/alexey-kuzmis-5464762/)
 <br>
 
-![](https://github.com/alexeykuz-sys/Alexey-Kuzmis/blob/main/business%20card.PNG)
 
 
 
