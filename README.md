@@ -1,17 +1,22 @@
 ### Hi there 👋
+### software frontend developer who likes building websites and make them interactive
 
-![Alexey Kuzmis](https://alexeykuz-sys.github.io/businessCard/)
-<!--
-**alexeykuz-sys/alexeykuz-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏼‍💻 building [Business Card](https://alexeykuz-sys.github.io/businessCard/)  
+🧠 learning JavaScript, REACT  Django
+💜 loving REACT
 
-Here are some ideas to get you started:
+📷 [Instagram](https://www.instagram.com/icmodels.uk/) **|** 
+👔 [LinkedIn](https://www.linkedin.com/in/alexey-kuzmis-5464762/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+[banner]: 
+
+
+
+- 🔭 I’m currently working on ...https://alexeykuz-sys.github.io/businessCard/
+- 🌱 I’m currently learning ...REACT
+- 👯 I’m looking to collaborate on ...Front End Projects
+- 🤔 I’m looking for help with ...Finding my first job as front end developer
+- 💬 Ask me about ...abything
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: ...he/him
+
