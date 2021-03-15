@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am software frontend developer who likes building websites and make them interactive
 
-👨🏼‍💻 last project [Recipe Website](hhttps://github.com/alexeykuz-sys/myRecipe-MS3)  
+👨🏼‍💻 last project - [Recipe Website](https://github.com/alexeykuz-sys/myRecipe-MS3)  
 <br>
 🧠 learning  JavaScript, REACT, Django 
 <br>
