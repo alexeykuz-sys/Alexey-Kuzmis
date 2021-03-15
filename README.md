@@ -1,11 +1,13 @@
 ### Hi there 👋
 ### I am software frontend developer who likes building websites and make them interactive
 
-👨🏼‍💻 last project - [Recipe Website](https://github.com/alexeykuz-sys/myRecipe-MS3)  
+👨🏼‍💻 Last project - [Recipe Website](https://my-recipe-ms3.herokuapp.com/)
 <br>
-🧠 learning  JavaScript, REACT, Django 
+👨🏼‍💻 Last frontend challenge - [Bookmark Landing Page](https://bookmark-landing-page-alexeykuz-sys.vercel.app/)
 <br>
-💜 loving:  coding **|** photography **|** trail running **|** tennis
+🧠  Learning  JavaScript, REACT, Django 
+<br>
+💜 Loving:  coding **|** photography **|** trail running **|** tennis
 <br>
 :1st_place_medal: [Hackathon](https://github.com/alexeykuz-sys/hackathon-doubleShamrocks)
 
