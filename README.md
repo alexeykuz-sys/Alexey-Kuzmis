@@ -7,9 +7,9 @@
 <br>
 🧠  Learning  JavaScript, REACT, Django 
 <br>
-💜 Loving:  coding **|** photography **|** trail running **|** tennis
+💜 Loving:  :computer:coding **|** :camera:photography **|** :runner:trail running **|** :tennis:tennis
 <br>
-:1st_place_medal: [Hackathon](https://github.com/alexeykuz-sys/hackathon-doubleShamrocks)
+:1st_place_medal: [Code Institute Hackathon](https://doubleshamrocks.herokuapp.com/)
 
 
 
