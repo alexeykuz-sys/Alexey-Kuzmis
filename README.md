@@ -1,8 +1,7 @@
 ### Hi there 👋
 ### I am software frontend developer who likes building websites and make them interactive
 
-![](https://github.com/alexeykuz-sys/Alexey-Kuzmis/blob/main/business%20card.PNG)
-
+![](https://github.com/alexeykuz-sys/alexeykuz-sys/blob/4105ffed9f85b7b73b1b9d438c980e75b86e57e5/project_imgs.png)
 
 
 👨🏼‍💻 Last project - [Recipe Website](https://my-recipe-ms3.herokuapp.com/)
