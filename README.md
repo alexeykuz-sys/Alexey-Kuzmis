@@ -6,7 +6,7 @@
 
 👨🏼‍💻 Last project - [Recipe Website](https://my-recipe-ms3.herokuapp.com/)
 <br>
-👨🏼‍💻 Last frontend challenge - [Bookmark Landing Page](https://bookmark-landing-page-alexeykuz-sys.vercel.app/)
+👨🏼‍💻 Last frontend challenge using REACTJS - [COVID TRACKER](https://alexeykuz-sys.github.io/react-covid-tracker/)
 <br>
 🧠  Learning  JavaScript, REACT, Django 
 <br>
